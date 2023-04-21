@@ -1,6 +1,7 @@
-👋 Hi, I’m @slashTony
-<br>
-I love programming and creating programs from zero.
+```python
+while True:
+    pass
+```
 
 <!---
 slashTony/slashTony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
