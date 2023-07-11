@@ -1,6 +1,6 @@
 # Hi, I'm Tony
 
-![alt text](./sHNCKX.gif "Why this gif?")
+![alt text](./giphy-3201535041.gif "Why this gif?")
 
 ```python
 while True:
