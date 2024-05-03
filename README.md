@@ -1,4 +1,4 @@
-![s]("./scifi.jpg")
+![s](./scifi.jpg)
 
 ## Hello, I'm Tony
 
