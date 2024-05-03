@@ -1,5 +1,3 @@
-![s](./scifi.jpg)
-
 ## Hello, I'm Tony
 
 💪 Full stack developer  
@@ -13,7 +11,7 @@
 <a href="https://github.com/sudoerr"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=f5f5f5"></a>
 <a href="https://github.com/sudoerr"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=f5f5f5"></a>
 <a href="https://github.com/sudoerr"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=f5f5f5"></a>
-<a href="https://github.com/sudoerr"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=f5f5f5"></a>
+<a href="https://github.com/sudoerr"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=060606"></a>
 <a href="https://github.com/sudoerr"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=f5f5f5"></a>
 <a href="https://github.com/sudoerr"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=f5f5f5"></a>
 <a href="https://github.com/sudoerr"><img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=f5f5f5"></a>
