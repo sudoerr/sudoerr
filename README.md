@@ -17,7 +17,7 @@ while True:
 ```rust
 fn main{
     loop{
-        println!("Hello, {name}");
+        println!("Hi there.");
     }
 }
 ```
