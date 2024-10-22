@@ -1,8 +1,11 @@
 ## Hi There 👋, I'm Tony
 
-> `💪 Full stack developer`  
+> `💪 Senior Developer`  
 > `🐍 Python Lover`  
+> `📚 Learning New Things`  
 > `😄 Fun Projects`  
+
+BTW In most scenarios `senior developer` means `I can google better than you`. 😄  
 
 ##### Visit <a href="https://sudoerr.github.io">My github.io</a>
 
