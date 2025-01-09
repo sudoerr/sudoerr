@@ -2,6 +2,7 @@
 
 > `💪 Senior Developer`  
 > `🐍 Python Lover`  
+> `🦀 Rust Mid-Level`  
 > `📚 Learning New Things`  
 > `😄 Fun Projects`  
 
