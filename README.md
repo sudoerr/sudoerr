@@ -50,7 +50,7 @@ Language And Tools :
 🦉 Night Owl -> Most Of My Life [340/365]
 ⌨️ Press [ Ctrl+R ] to nuke it...
 
-[TOP SECRET] I hate my host, always it hurts to be night owl :(
+[TOP SECRET] I hate my host, it hurts to be a night owl :(
 [TOP SECRET] Please help me, I nee^c^c
 ^c
 ```
