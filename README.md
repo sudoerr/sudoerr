@@ -20,25 +20,4 @@
 • [1752912485] → Bootstraped 98% - some of data were damaged, trying to fix it
 • [1752912485] → Bootstraped 100% - data ready to be shown. Well done.
 • [1752912485] → Printing data to stdout...
-
-Language And Tools :
-
-> Rust              Advanced            █████████████████░░░░░░░░   73.00 % 
-> Python            Senior              ████████████████████████░   98.67 % 
-> Web               Advanced            ██████████████████░░░░░░░   72.23 % 
-> Linux             Advanced            ██████████████████░░░░░░░   75.00 % 
-> Embedded          Mid Level           █████████████░░░░░░░░░░░░   48.92 % 
-> Others            Mid Level           █████████████░░░░░░░░░░░░   53.09 % 
-
-Still Learning...
-Night Owl -> Most Of My Life [340/365]
-Press [ Ctrl+R ] to nuke it...
-
-[TOP SECRET] I hate my host, always it hurts to be night owl :(
-[TOP SECRET] Please help me, I nee^c^c
-^c
 ```
-> [!NOTE]  
-> BTW, my brain doesn't hate me...  
-> that's just, ummm. stupid things I made it bring out. Totally...
-
